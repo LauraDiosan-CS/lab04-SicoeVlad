@@ -1,0 +1,12 @@
+﻿  Ctrl.cpp
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(143,16): warning C4101: 'p': unreferenced local variable
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Ctrl.cpp(178,20): warning C4018: '<': signed/unsigned mismatch
+  Test.cpp
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\Andrei\Desktop\OOP restanta\Lab5\Debug\Lab5.exe
