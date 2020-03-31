@@ -1,0 +1,4 @@
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Debug\Lab5.exe
+C:\Users\Andrei\Desktop\OOP restanta\Lab5\Debug\Lab5.pdb
+C:\Users\Andrei\Desktop\OOP restanta\Lab5+tema\Debug\Lab5.exe
+C:\Users\Andrei\Desktop\OOP restanta\Lab5+tema\Debug\Lab5.pdb
